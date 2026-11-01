@@ -3,6 +3,12 @@
 @tailwind utilities;
 
 :root {
+  --font-manrope: Manrope, "Arial Narrow", Arial, sans-serif;
+  --font-inter: Inter, Arial, sans-serif;
+  --font-plex-mono: "IBM Plex Mono", "Courier New", monospace;
+}
+
+:root {
   --bg-primary: #f7f6f2;
   --bg-secondary: #eeede7;
   --surface: #fffefd;
